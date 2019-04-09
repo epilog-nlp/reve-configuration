@@ -1,0 +1,427 @@
+{
+  "tops": [
+    {
+      "midLevels": [
+        {
+          "lowLevels": [
+            {
+              "stringContent": "LowLevelContent",
+              "intContent": 1
+            },
+            {
+              "stringContent": "LowLevelContent",
+              "intContent": 2
+            },
+            {
+              "stringContent": "LowLevelContent",
+              "intContent": 3
+            }
+          ],
+          "lowLevel": {
+            "stringContent": "LowLevelContent",
+            "intContent": 1
+          },
+          "stringContent": "MidLevelContent",
+          "intContent": 1,
+          "arrayItem": [ "Array1", "Array2", "Array3" ]
+        },
+        {
+          "lowLevels": [
+            {
+              "stringContent": "LowLevelContent",
+              "intContent": 1
+            },
+            {
+              "stringContent": "LowLevelContent",
+              "intContent": 2
+            },
+            {
+              "stringContent": "LowLevelContent",
+              "intContent": 3
+            }
+          ],
+          "lowLevel": {
+            "stringContent": "LowLevelContent",
+            "intContent": 1
+          },
+          "stringContent": "MidLevelContent",
+          "intContent": 2,
+          "arrayItem": [ "Array1", "Array2", "Array3" ]
+        },
+        {
+          "lowLevels": [
+            {
+              "stringContent": "LowLevelContent",
+              "intContent": 1
+            },
+            {
+              "stringContent": "LowLevelContent",
+              "intContent": 2
+            },
+            {
+              "stringContent": "LowLevelContent",
+              "intContent": 3
+            }
+          ],
+          "lowLevel": {
+            "stringContent": "LowLevelContent",
+            "intContent": 1
+          },
+          "stringContent": "MidLevelContent",
+          "intContent": 3,
+          "arrayItem": [ "Array1", "Array2", "Array3" ]
+        }
+      ],
+      "midLevel": {
+        "lowLevels": [
+          {
+            "stringContent": "LowLevelContent",
+            "intContent": 1
+          },
+          {
+            "stringContent": "LowLevelContent",
+            "intContent": 2
+          },
+          {
+            "stringContent": "LowLevelContent",
+            "intContent": 3
+          }
+        ],
+        "lowLevel": {
+          "stringContent": "LowLevelContent",
+          "intContent": 1
+        },
+        "stringContent": "MidLevelContent",
+        "intContent": 1,
+        "arrayItem": [ "Array1", "Array2", "Array3" ]
+      },
+      "stringContent": "TopLevelContent",
+      "intContent": 1
+    },
+    {
+      "midLevels": [
+        {
+          "lowLevels": [
+            {
+              "stringContent": "LowLevelContent",
+              "intContent": 1
+            },
+            {
+              "stringContent": "LowLevelContent",
+              "intContent": 2
+            },
+            {
+              "stringContent": "LowLevelContent",
+              "intContent": 3
+            }
+          ],
+          "lowLevel": {
+            "stringContent": "LowLevelContent",
+            "intContent": 1
+          },
+          "stringContent": "MidLevelContent",
+          "intContent": 1,
+          "arrayItem": [ "Array1", "Array2", "Array3" ]
+        },
+        {
+          "lowLevels": [
+            {
+              "stringContent": "LowLevelContent",
+              "intContent": 1
+            },
+            {
+              "stringContent": "LowLevelContent",
+              "intContent": 2
+            },
+            {
+              "stringContent": "LowLevelContent",
+              "intContent": 3
+            }
+          ],
+          "lowLevel": {
+            "stringContent": "LowLevelContent",
+            "intContent": 1
+          },
+          "stringContent": "MidLevelContent",
+          "intContent": 2,
+          "arrayItem": [ "Array1", "Array2", "Array3" ]
+        },
+        {
+          "lowLevels": [
+            {
+              "stringContent": "LowLevelContent",
+              "intContent": 1
+            },
+            {
+              "stringContent": "LowLevelContent",
+              "intContent": 2
+            },
+            {
+              "stringContent": "LowLevelContent",
+              "intContent": 3
+            }
+          ],
+          "lowLevel": {
+            "stringContent": "LowLevelContent",
+            "intContent": 1
+          },
+          "stringContent": "MidLevelContent",
+          "intContent": 3,
+          "arrayItem": [ "Array1", "Array2", "Array3" ]
+        }
+      ],
+      "midLevel": {
+        "lowLevels": [
+          {
+            "stringContent": "LowLevelContent",
+            "intContent": 1
+          },
+          {
+            "stringContent": "LowLevelContent",
+            "intContent": 2
+          },
+          {
+            "stringContent": "LowLevelContent",
+            "intContent": 3
+          }
+        ],
+        "lowLevel": {
+          "stringContent": "LowLevelContent",
+          "intContent": 1
+        },
+        "stringContent": "MidLevelContent",
+        "intContent": 1,
+        "arrayItem": [ "Array1", "Array2", "Array3" ]
+      },
+      "stringContent": "TopLevelContent",
+      "intContent": 2
+    },
+    {
+      "midLevels": [
+        {
+          "lowLevels": [
+            {
+              "stringContent": "LowLevelContent",
+              "intContent": 1
+            },
+            {
+              "stringContent": "LowLevelContent",
+              "intContent": 2
+            },
+            {
+              "stringContent": "LowLevelContent",
+              "intContent": 3
+            }
+          ],
+          "lowLevel": {
+            "stringContent": "LowLevelContent",
+            "intContent": 1
+          },
+          "stringContent": "MidLevelContent",
+          "intContent": 1,
+          "arrayItem": [ "Array1", "Array2", "Array3" ]
+        },
+        {
+          "lowLevels": [
+            {
+              "stringContent": "LowLevelContent",
+              "intContent": 1
+            },
+            {
+              "stringContent": "LowLevelContent",
+              "intContent": 2
+            },
+            {
+              "stringContent": "LowLevelContent",
+              "intContent": 3
+            }
+          ],
+          "lowLevel": {
+            "stringContent": "LowLevelContent",
+            "intContent": 1
+          },
+          "stringContent": "MidLevelContent",
+          "intContent": 2,
+          "arrayItem": [ "Array1", "Array2", "Array3" ]
+        },
+        {
+          "lowLevels": [
+            {
+              "stringContent": "LowLevelContent",
+              "intContent": 1
+            },
+            {
+              "stringContent": "LowLevelContent",
+              "intContent": 2
+            },
+            {
+              "stringContent": "LowLevelContent",
+              "intContent": 3
+            }
+          ],
+          "lowLevel": {
+            "stringContent": "LowLevelContent",
+            "intContent": 1
+          },
+          "stringContent": "MidLevelContent",
+          "intContent": 3,
+          "arrayItem": [ "Array1", "Array2", "Array3" ]
+        }
+      ],
+      "midLevel": {
+        "lowLevels": [
+          {
+            "stringContent": "LowLevelContent",
+            "intContent": 1
+          },
+          {
+            "stringContent": "LowLevelContent",
+            "intContent": 2
+          },
+          {
+            "stringContent": "LowLevelContent",
+            "intContent": 3
+          }
+        ],
+        "lowLevel": {
+          "stringContent": "LowLevelContent",
+          "intContent": 1
+        },
+        "stringContent": "MidLevelContent",
+        "intContent": 1,
+        "arrayItem": [ "Array1", "Array2", "Array3" ]
+      },
+      "stringContent": "TopLevelContent",
+      "intContent": 3
+    }
+  ],
+  "Top": {
+    "midLevels": [
+      {
+        "lowLevels": [
+          {
+            "stringContent": "LowLevelContent",
+            "intContent": 1
+          },
+          {
+            "stringContent": "LowLevelContent",
+            "intContent": 2
+          },
+          {
+            "stringContent": "LowLevelContent",
+            "intContent": 3
+          }
+        ],
+        "lowLevel": {
+          "stringContent": "LowLevelContent",
+          "intContent": 1
+        },
+        "stringContent": "MidLevelContent",
+        "intContent": 1,
+        "arrayItem": [ "Array1", "Array2", "Array3" ]
+      },
+      {
+        "lowLevels": [
+          {
+            "stringContent": "LowLevelContent",
+            "intContent": 1
+          },
+          {
+            "stringContent": "LowLevelContent",
+            "intContent": 2
+          },
+          {
+            "stringContent": "LowLevelContent",
+            "intContent": 3
+          }
+        ],
+        "lowLevel": {
+          "stringContent": "LowLevelContent",
+          "intContent": 1
+        },
+        "stringContent": "MidLevelContent",
+        "intContent": 2,
+        "arrayItem": [ "Array1", "Array2", "Array3" ]
+      },
+      {
+        "lowLevels": [
+          {
+            "stringContent": "LowLevelContent",
+            "intContent": 1
+          },
+          {
+            "stringContent": "LowLevelContent",
+            "intContent": 2
+          },
+          {
+            "stringContent": "LowLevelContent",
+            "intContent": 3
+          }
+        ],
+        "lowLevel": {
+          "stringContent": "LowLevelContent",
+          "intContent": 1
+        },
+        "stringContent": "MidLevelContent",
+        "intContent": 3,
+        "arrayItem": [ "Array1", "Array2", "Array3" ]
+      }
+    ],
+    "midLevel": {
+      "lowLevels": [
+        {
+          "stringContent": "LowLevelContent",
+          "intContent": 1
+        },
+        {
+          "stringContent": "LowLevelContent",
+          "intContent": 2
+        },
+        {
+          "stringContent": "LowLevelContent",
+          "intContent": 3
+        }
+      ],
+      "lowLevel": {
+        "stringContent": "LowLevelContent",
+        "intContent": 1
+      },
+      "stringContent": "MidLevelContent",
+      "intContent": 1,
+      "arrayItem": [ "Array1", "Array2", "Array3" ]
+    },
+    "stringContent": "TopLevelContent",
+    "intContent": 1
+  },
+  "complexItems": [
+    {
+      "complexFields": [ 0, 3 ]
+    },
+    {
+      "complexFields": [ 1, 3 ]
+    },
+    {
+      "complexFields": [ 2, 3 ]
+    }
+  ],
+  "complexItem": {
+    "complexFields": [ 0, 3 ]
+  },
+  "alias": {
+    "complexFields": [ 0, 3 ]
+  },
+  "structItems": [
+    {
+      "intField": 1
+    },
+    {
+      "intField": 2
+    },
+    {
+      "intField": 3
+    }
+  ],
+  "structItem": {
+    "intField": 1
+  }
+}
