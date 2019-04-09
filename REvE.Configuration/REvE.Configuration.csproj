@@ -1,0 +1,28 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>net47;net471;net472;netcoreapp2.0;netcoreapp2.1;netcoreapp2.2</TargetFrameworks>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Version>1.0.3</Version>
+    <Authors>Ian Schlarman</Authors>
+    <Copyright>Copyright ©2019 Ian Schlarman</Copyright>
+    <Description>Framework component for resolution of generic configurations.</Description>
+    <PackageTags>Rule Evaluation Engine Configuration Framework</PackageTags>
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <IncludeSymbols>true</IncludeSymbols>
+    <SymbolPackageFormat>snupkg</SymbolPackageFormat>
+    <PackageReleaseNotes>Added support for .NET Core.</PackageReleaseNotes>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="11.0.1" />
+    <PackageReference Include="System.ComponentModel.Composition" Version="4.5.0" />
+    <PackageReference Include="System.Configuration.ConfigurationManager" Version="4.5.0" />
+  </ItemGroup>
+
+</Project>
